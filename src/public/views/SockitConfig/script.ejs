@@ -1,0 +1,16 @@
+<!-- Include the Socket.IO library -->
+<script src="/socket.io/socket.io.js"></script>
+
+<script>
+  document.addEventListener("DOMContentLoaded", () => {
+    // Initialize Socket.IO connection
+    const socket = io();
+
+    // Listen for 'save' event from the server
+    socket.on('save', (data) => {
+      console.log(data, "this is the data");
+      // Reload the page when a 'save' event is received
+      window.location.reload();
+    });
+  });
+</script>
