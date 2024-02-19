@@ -26,6 +26,15 @@ This package creates the Node.js Express.js full-class-based folder structure an
 
 
 
+## Installation clone
+
+Install install all pakages with npm
+
+```bash
+  cd node-folder
+  npm install
+```
+
 ## Installation with (npm)
 
 Install install all pakages with npm
@@ -35,9 +44,8 @@ Install install all pakages with npm
   npm install
 ```
     
-    
 
-## Installation with yarn
+## Installation with (yarn)
 
 Install install all pakages with yarn
 
@@ -49,7 +57,7 @@ Install install all pakages with yarn
 
 ## Installation
 
-Install install all pakages with pnpm
+Install install all pakages with (pnpm)
 
 ```bash
   cd node-folder
