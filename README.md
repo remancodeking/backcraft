@@ -31,8 +31,7 @@ This package creates the Node.js Express.js full-class-based folder structure an
 Install install all pakages with npm
 
 ```bash
-  cd node-folder
-  npm install
+  git clone https://github.com/remancodeking/cackcraft.git
 ```
 
 ## Installation with (npm)
