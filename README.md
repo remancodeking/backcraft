@@ -7,6 +7,7 @@ This package creates the Node.js Express.js full-class-based folder structure an
 - [Auto Reload Web Pages](#)
 - [EJS Template Include](#)
 - [Sockit.io Include](#)
+- [Uplode Files :: (Images):(Audio):(Video):(Uplode multipel Images)](#)
 
 ## Default Packages
 
@@ -31,7 +32,7 @@ This package creates the Node.js Express.js full-class-based folder structure an
 Install install all pakages with npm
 
 ```bash
-  git clone https://github.com/remancodeking/cackcraft.git
+  git clone https://github.com/remancodeking/backcraft.git
 ```
 
 ## Installation with (npm)

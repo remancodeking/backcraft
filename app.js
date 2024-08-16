@@ -10,8 +10,8 @@ app.get('/',(req, res)=>{
 })
 
 
-// Call global function 
 setupAutoReload()
+// Call global function 
 
 
 server.listen(port, host, ()=>{
