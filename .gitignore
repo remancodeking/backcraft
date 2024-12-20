@@ -1,5 +1,5 @@
 node_modules
 package-lock.json
-.evn
+.env
 .logs
 pnpm-lock.yaml
