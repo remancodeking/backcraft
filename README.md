@@ -7,7 +7,14 @@ This package creates the Node.js Express.js full-class-based folder structure an
 - [Auto Reload Web Pages](#)
 - [EJS Template Include](#)
 - [Sockit.io Include](#)
+- [Send Email](#)
+- [Connect MySQL](#)
+- [Connect MongoDB](#)
 - [Uplode Files :: (Images):(Audio):(Video):(Uplode multipel Images)](#)
+
+
+
+
 
 ## Default Packages
 
