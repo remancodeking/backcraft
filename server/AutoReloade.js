@@ -53,7 +53,7 @@ function setupAutoReload() {
       return result;
     }
 
-    readDirRecursively(path.join(__dirname, "../../")).forEach((filePath) => {
+    readDirRecursively(path.join(__dirname, "../")).forEach((filePath) => {
       fs.watch(filePath, (eventType, filename) => {
         if (eventType === 'change') {
           fs.stat(filePath, (err, stats) => {
